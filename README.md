@@ -1,5 +1,5 @@
 # Ultrasonic-Sensor
-https://www.youtube.com/@MDJUNAINMUNTASIR 
+[https://www.youtube.com/@MDJUNAINMUNTASIR](https://youtu.be/I1qsclSvaJo) 
 Display the sensor reading in centimetres in terminal, 10 times a second. Use an f-string to format
 the terminal output to 2 decimal points.
 3. Declare the LEDs in the program. You can use regular LEDs (controlled by gpiozero) for basic lab
